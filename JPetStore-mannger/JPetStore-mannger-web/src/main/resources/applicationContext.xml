@@ -39,7 +39,6 @@
         <!-- 配置mapping映射文件 写法一 -->
         <property name="mappingDirectoryLocations">
             <list>
-                <value>classpath:com/clps/demo/domain/</value>
                 <value>classpath:com/clps/jPet/pojo/mapping/</value>
             </list>
         </property>
