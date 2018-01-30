@@ -46,6 +46,7 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.0.M22" level="application_server_libraries" />
     <orderEntry type="module" module-name="JPetStore-mannger-service" />
     <orderEntry type="module" module-name="JPetStore-mannger-dao" />
     <orderEntry type="module" module-name="JPetStore-mannger-pojo" />

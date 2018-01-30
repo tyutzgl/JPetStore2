@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JPetStore-common/JPetStore-common.iml" filepath="$PROJECT_DIR$/JPetStore-common/JPetStore-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger.iml" filepath="$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-action/JPetStore-mannger-action.iml" filepath="$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-action/JPetStore-mannger-action.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-dao/JPetStore-mannger-dao.iml" filepath="$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-dao/JPetStore-mannger-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-pojo/JPetStore-mannger-pojo.iml" filepath="$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-pojo/JPetStore-mannger-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-service/JPetStore-mannger-service.iml" filepath="$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-service/JPetStore-mannger-service.iml" />
