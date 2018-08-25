@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="JPetStore-mannger-web:war">
-    <output-path>$PROJECT_DIR$/JPetStore-mannger/JPetStore-mannger-web/target</output-path>
-    <root id="archive" name="JPetStore-mannger-web.war">
-      <element id="artifact" artifact-name="JPetStore-mannger-web:war exploded" />
-    </root>
-  </artifact>
-</component>
